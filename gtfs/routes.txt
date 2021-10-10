@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,tts_route_short_name,route_long_name,tts_route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,direction0_name,direction1_name
+10866892,SLOT,1A,,Johnson/Tank Farm/Airport,,,3,https://www.slocity.org/home/showpublisheddocument/31108,42205F,FFFFFF,,Johnson/Orcutt/Marigold Center,
+10866895,SLOT,2A,,Higuera/LOVR/Madonna,,,3,https://www.slocity.org/home/showdocument?id=27578,223F99,FFFFFF,,Promenade,A
+10866897,SLOT,3A,,Promenade/LOVR/Cal Poly,,,3,https://www.slocity.org/home/showpublisheddocument/31072/637677320784230000,C65427,FFFFFF,,Laguna Lane,A
+10866849,SLOT,3B,,Cal Poly/LOVR/Amtrak,,,3,https://www.slocity.org/home/showpublisheddocument/31074/637677321174070000,F4A31E,000000,,A,Kennedy Library/Promenade/Amtrak
+10867636,SLOT,4A,,Monterey/Foothill/Cal Poly,,,3,https://www.slocity.org/home/showpublisheddocument/31076/637677321345530000,12592E,FFFFFF,,University Square/Kennedy Library,B
+10867637,SLOT,4B,,Cal Poly/Ramona/Monterey,,,3,https://www.slocity.org/home/showpublisheddocument/31078/637677321506470000,24964C,000000,,Cal Poly/Ramona at Palomar,B
